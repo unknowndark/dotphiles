@@ -19,7 +19,7 @@ export PATH="$PATH:/home/alan/git/tfenv/bin"
 export PATH="$PATH:/home/alan/go/bin"
 export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
 
-source /home/alan/git/bashton-my-aws/functions # bashton-my-aws
-source /home/alan/git/bashton-sshuttle/sshuttle-vpn # bashton-sshuttle
+#source /home/alan/git/bashton-my-aws/functions # bashton-my-aws
+#source /home/alan/git/bashton-sshuttle/sshuttle-vpn # bashton-sshuttle
 source /usr/share/git/completion/git-completion.bash
-source ~/bin/_vpn-bash_completion.sh
+#source ~/bin/_vpn-bash_completion.sh

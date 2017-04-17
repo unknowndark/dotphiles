@@ -9,8 +9,8 @@
 
 # Global Config
 [user]
-    email = alan.jenkins@claranet.uk
-    name = Alan Jenkins
+    email = unknowndark@msn.com	
+    name = Christopher Evans
     #signingkey = **Your GPG ID**
 
 [branch "master"]
